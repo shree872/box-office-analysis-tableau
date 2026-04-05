@@ -38,7 +38,7 @@ Identification of high-performing films
 
 
 ## Dashboard Preview
-[Box Office Analysis Tableu Dashboard](final_dashboard.png)
+![Box Office Analysis Tableu Dashboard](images/dashboard.png)
 
 
 ## Business Recommendations
