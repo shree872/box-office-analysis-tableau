@@ -51,9 +51,9 @@ Identification of high-performing films
 
 
 
-📁 Project Files
+## 📁 Project Files
 Tableau Workbook: box_office_analysis.twbx
 
 
-🚀 Tools & Technologies
+## 🚀 Tools & Technologies
 Tableau
