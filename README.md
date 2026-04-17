@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project analyzes box office data to uncover trends in movie performance, revenue generation, and audience preferences using interactive Tableau dashboards.
+Through this project I analyzed box office data to uncover trends in movie performance, revenue generation, and audience preferences using interactive Tableau dashboards.
 
 ## Objective
 
